@@ -25,10 +25,3 @@ o 4º termo, o programa informará que o número localizado nessa posição é 5
     '''
 
     ## Licença
-
-    
-Demonstração (imagem/GIF)
-Instalação e Pré-requisitos
-Uso e Exemplos
-Estrutura do Projeto
-Licença
