@@ -1,8 +1,5 @@
-==================================
-    Bem-vindo à calculadora de
-            Fibonacci
-==================================
-
+Bem-vindo à calculadora de Fibonacci
+            
 A principal função dessa calculadora é informar qual o número de determinada
 posição na sequência de Fibonacci.
 Por exemplo, se essa sequência é (1, 2, 3, 5, 8, ...) e o usuário pedir 
