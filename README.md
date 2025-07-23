@@ -12,7 +12,7 @@ Após isso, ele lhe informará o número da posição que informastes.
     
 ### Demonstração
 
-# Instalação e Pré-requisitos
+## Instalação e Pré-requisitos
 Para usar esta calculadora, basta possuir um programa que execute
 arquivos em C e copiar o código descrito em Calculadora.c. Após isso,
 é só rodar o código no terminal e aproveitar sua calculadora.
