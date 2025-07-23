@@ -9,8 +9,6 @@ o 4º termo, o programa informará que o número localizado nessa posição é 5
 Primeiro, ele lhe pedirá que digite a posição do número que você quer
 descobrir. Então digite-o e pressione ENTER
 Após isso, ele lhe informará o número da posição que informastes.
-    
-### Demonstração
 
 ## Instalação e Pré-requisitos
 Para usar esta calculadora, basta possuir um programa que execute
