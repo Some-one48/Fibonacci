@@ -12,9 +12,16 @@ int main(){
     printf("\n==========================================\n\tBem-vindo a calculadora de\n\t\tFibonacci\n==========================================\n");
 
    int n, f;
+   char c;
    
    printf("\nDigite a posicao do numero que quer descobrir:");
    scanf("%d", &n);
-   f = fibonacci(n);
-   printf("\nO termo numero %d da sequencia de Fibonacci eh: %d\n", n, f);
+   if(n<0){
+    printf("\nERRO. Digite um numero POSITIVO\n");
+    n = 0;
+   }else {
+    f = fibonacci(n);
+    printf("O termo numero %d da sequencia de Fibonacci eh: %d\n", n, f);
+    f = 0;
+   }
 }
